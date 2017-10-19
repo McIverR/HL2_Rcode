@@ -494,7 +494,3 @@ cater = c("Centric Diatoms", "Pennate Diatoms", "HAB Diatoms", "HAB Flagellates"
 #### LINE GRAPHS --> Get general monthly stats (# samplding days, sum cells, mean cells/cast) ALL cells of all groups for each year --> for just catergories 1-8 (autotrophs) ####
 
 
-
-#### THis is a test - what happens when I need to update the file on Git Hub #####
-#### not trying the commit from GitHub here --- does this work in R Studio? #####
-
