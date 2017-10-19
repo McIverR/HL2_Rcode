@@ -496,5 +496,5 @@ cater = c("Centric Diatoms", "Pennate Diatoms", "HAB Diatoms", "HAB Flagellates"
 
 
 #### THis is a test - what happens when I need to update the file on Git Hub #####
-
+#### not trying the commit from GitHub here --- does this work in R Studio? #####
 
